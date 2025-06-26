@@ -35,9 +35,9 @@
 
 # 📈 Our github stats
 
-[![Angelus](https://img.shields.io/badge/Angelus-1-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=Angelus-1&color=blue&show_icons=true)  !
+[![Angelus](https://img.shields.io/badge/angelus-1-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=angelus-1&color=blue&show_icons=true)  !
 
-![Angelus-1](https://github-readme-stats.vercel.app/api?username=Angelus-1&show_icons=true&hide_border=true&card_width=100&include_all_commits=true&count_private=true&bg_color=92.05deg,d2a8ff,f778ba,ff7b72)![Angelus-1](https://github-readme-streak-stats.herokuapp.com/?user=Angelus-1&show_icons=true&hide_border=true&card_width=100&bg_color=92.05deg,d2a8ff,f778ba,ff7b72)<br/>
+![Angelus-1](https://github-readme-stats.vercel.app/api?username=angelus-1&show_icons=true&hide_border=true&card_width=100&include_all_commits=true&count_private=true&bg_color=92.05deg,d2a8ff,f778ba,ff7b72)![Angelus-1](https://github-readme-streak-stats.herokuapp.com/?user=angelus-1&show_icons=true&hide_border=true&card_width=100&bg_color=92.05deg,d2a8ff,f778ba,ff7b72)<br/>
 
 # Used programming langauages
 
