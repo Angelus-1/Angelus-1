@@ -12,10 +12,11 @@ I'm the founder of **Angelus v1**, a startup focused on building scalable IT sol
 
 ## 🧑‍💼 About Angelus v1
 
-> Angelus v1 is a visionary tech startup based in Rwanda.  
+> Angelus v1 is a visionary tech startup based in Rwanda.
+> a Rwanda-based tech startup focused on innovative and impactful IT solutions for the local and global community.
+
 > We deliver smart, community-focused software products that support sustainable development across Africa.  
 > From local employment apps to enterprise-grade systems — we turn **big ideas into working code**.
-> Hi, I'm Angelus Jean — founder of Angelus v1, a Rwanda-based tech startup focused on innovative and impactful IT solutions for the local and global community.
 
 Through smart tech, real-world problem-solving, and community engagement, I’m committed to supporting sustainable development and digital transformation across Africa.
 ---
