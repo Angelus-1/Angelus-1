@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Angelus%20👋&fontSize=40&fontAlign=center)
 
-# 👨‍💻 Angelus — Software Engineer | Tech Innovator | Founder of Angelus v1
+## 👨‍💻 Angelus — Software Engineer | Tech Innovator | Founder of Angelus v1
 
 Hi there! I’m a **full-stack software developer** and **tech entrepreneur** from 🇷🇼 Rwanda.
 
