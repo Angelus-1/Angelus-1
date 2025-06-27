@@ -17,7 +17,6 @@ I'm the founder of **Angelus v1**, a startup focused on building scalable IT sol
 
 > We deliver smart, community-focused software products that support sustainable development across Africa.  
 > From local employment apps to enterprise-grade systems — we turn **big ideas into working code**.
-
 **Through smart tech, real-world problem-solving, and community engagement, I’m committed to supporting sustainable development and digital transformation across Africa.**
 ---
 
