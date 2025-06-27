@@ -2,12 +2,19 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Angelus%20👋&fontSize=40&fontAlign=center)
 
-# 👨‍💻 Angelus Jean — Software Engineer | Tech Innovator | Founder of Angelus v1
+# 👨‍💻 Angelus — Software Engineer | Tech Innovator | Founder of Angelus v1
 
 Hi there! I’m a **full-stack software developer** and **tech entrepreneur** from 🇷🇼 Rwanda.
 
 I'm the founder of **Angelus v1**, a startup focused on building scalable IT solutions that empower local communities and solve real-world problems.
 
+---
+
+## 🧑‍💼 About Angelus v1
+
+> Angelus v1 is a visionary tech startup based in Rwanda.  
+> We deliver smart, community-focused software products that support sustainable development across Africa.  
+> From local employment apps to enterprise-grade systems — we turn **big ideas into working code**.
 ---
 
 ## 🚀 Current Project
@@ -35,14 +42,6 @@ Helping bridge Rwanda’s employment gap through accessible digital tools.
   <img src="https://github-readme-stats.vercel.app/api?username=Angelus-1&show_icons=true&theme=radical" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelus-1&layout=compact&theme=radical" width="49%" />
 </p>
-
----
-
-## 🧑‍💼 About Angelus v1
-
-> Angelus v1 is a visionary tech startup based in Rwanda.  
-> We deliver smart, community-focused software products that support sustainable development across Africa.  
-> From local employment apps to enterprise-grade systems — we turn **big ideas into working code**.
 
 ---
 
