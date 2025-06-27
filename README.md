@@ -50,9 +50,9 @@ Helping bridge Rwanda’s employment gap through accessible digital tools.
 
 ## 📫 Let’s Connect
 
-- 🌍 Website: [yourwebsite.com](https://yourwebsite.com)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 📧 Email: angelus@example.com
+- 🌍 Website:[](https://profound-otter-aa7fea.netlify.app/)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/angelus)
+- 📧 Email: angelusjean1@gmail.com
 - 🧑‍💻 GitHub: [Angelus-1](https://github.com/Angelus-1)
 
 ---
