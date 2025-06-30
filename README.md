@@ -51,7 +51,8 @@ Helping bridge Rwanda’s employment gap through accessible digital tools.
 ## 📫 Let’s Connect
 
 - 🌍 Website:https://profound-otter-aa7fea.netlify.app/
-- 🇷🇼Instagram:https://www.instagram.com/ange.l.u.s 
+- 🇷🇼Instagram:
+  https://www.instagram.com/ange.l.u.s 
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/angelus)
 - 📧 Email: angelusjean1@gmail.com
 - 🧑‍💻 GitHub: [Angelus-1](https://github.com/Angelus-1)
