@@ -2,15 +2,15 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Angelus%20👋&fontSize=40&fontAlign=center)
 
-## 👨‍💻 Angelus — Software Engineer | Tech Innovator | Founder of Angelus v1
+## 👨‍💻 Angelus — Software Engineer | Tech Innovator | Founder of Anilo
 
-Hi there! I’m a **full-stack software developer** and **tech entrepreneur** from 🇷🇼 Rwanda.
+Hi there! I’m a **Software developer** and **tech entrepreneur** from 🇷🇼 Rwanda.
 
 I'm the founder of **Anilo**, a startup focused on building scalable IT solutions that empower local communities and solve real-world problems.
 
 ---
 
-## 🧑‍💼 About Angelus v1
+## 🧑‍💼 About Angelus
 
 > Anilo is a visionary tech startup based in Rwanda.
 > a Rwanda-based tech startup focused on innovative and impactful IT solutions for the local and global community.
