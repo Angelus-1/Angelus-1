@@ -4,37 +4,38 @@
 
 ## 👨‍💻 Angelus — Software Engineer | Tech Innovator | Founder of Anilo
 
-Hi there! I’m a **Software developer** and **tech entrepreneur** from 🇷🇼 Rwanda.
+Hi there! I’m a **Software Developer** and **Tech Entrepreneur** from 🇷🇼 Rwanda.
 
 I'm the founder of **Anilo**, a startup focused on building scalable IT solutions that empower local communities and solve real-world problems.
 
 ---
 
-## 🧑‍💼 About Angelus
+## 🧑‍💼 About Me
 
-> Anilo is a visionary tech startup based in Rwanda.
-> a Rwanda-based tech startup focused on innovative and impactful IT solutions for the local and global community.
+> **Anilo** is a visionary, Rwanda-based tech startup focused on innovative and impactful IT solutions for both local and global communities. 
+> 
+> We deliver smart, community-focused software products that support sustainable development across Africa. From local employment apps to enterprise-grade systems — we turn **big ideas into working code**.
 
-> We deliver smart, community-focused software products that support sustainable development across Africa.  
-> From local employment apps to enterprise-grade systems — we turn **big ideas into working code**.
 **Through smart tech, real-world problem-solving, and community engagement, I’m committed to supporting sustainable development and digital transformation across Africa.**
+
 ---
 
 ## 🚀 Current Project
 
 ### 🔗 Quick Job Connect
-A web platform to connect unskilled workers with local employers.  
-Helping bridge Rwanda’s employment gap through accessible digital tools.
+A web platform to connect unskilled workers with local employers, helping bridge Rwanda’s employment gap through accessible digital tools.
 
-> 🛠️ Stack: Node.js • React • MongoDB • Express • Tailwind CSS  
+> 🛠️ **Stack:** Node.js • React • MongoDB • Express • Tailwind CSS  
 > 📱 Mobile-first | 🌍 Community-driven | 🔐 Secure & Scalable
 
 ---
 
 ## 🧰 Tech Stack
 
+I love working with modern technologies to build seamless, fast, and accessible user experiences:
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,flutter,dart,php,python,kotlin,java,go,swift,c,bash,mongodb,mysql,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase,figma,git,github,python,kotlin,swift" />
 </p>
 
 ---
@@ -50,12 +51,12 @@ Helping bridge Rwanda’s employment gap through accessible digital tools.
 
 ## 📫 Let’s Connect
 
-- 🌍 Website:https:https://angeluscom.vercel.app/
-- 🇷🇼Instagram:
-  https://www.instagram.com/ange.l.u.s 
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/angelus)
-- 📧 Email: angelusjean1@gmail.com
-- 🧑‍💻 GitHub: [Angelus-1](https://github.com/Angelus-1)
+If you want to collaborate on a project, talk about startups, or just say hi, feel free to reach out!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://angeluscom.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ange.l.u.s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelus)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelusjean1@gmail.com)
 
 ---
 
