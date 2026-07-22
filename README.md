@@ -96,6 +96,8 @@ I leverage a modern, multi-disciplinary toolset to design, develop, and deploy p
       <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
     </td>
   </tr>
@@ -125,6 +127,12 @@ I leverage a modern, multi-disciplinary toolset to design, develop, and deploy p
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Angelus-1&theme=radical&hide_border=true" alt="Angelus's GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.codewars.com/users/Angelus-Jean-Niyogushimwa/" target="_blank">
+    <img src="https://www.codewars.com/users/Angelus-Jean-Niyogushimwa/badges/micro" alt="Codewars Profile" />
   </a>
 </p>
 
