@@ -2,14 +2,21 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Angelus%20👋&fontSize=40&fontAlign=center)
 
-# 👨‍💻 Angelus — Software Engineer | Tech Innovator | Founder of Anilo
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=25&width=800&lines=Software+Engineer+%7C+Tech+Innovator;Founder+of+Anilo+%F0%9F%9A%80;Building+Scalable,+Community-First+Solutions;Transforming+Digital+Ecosystems+in+Rwanda;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="#-about-me">About Me</a> •
   <a href="#-current-project">Current Project</a> •
   <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-soft-skills">Soft Skills</a> •
   <a href="#-github-activity">GitHub Stats</a> •
   <a href="#-lets-connect">Let's Connect</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Angelus-1&style=flat-square&color=2D6DEC&label=PROFILE+VISITORS" alt="Profile Visitors" />
 </p>
 
 ---
@@ -21,29 +28,41 @@ Hi there! I’m a **Software Developer** and **Tech Entrepreneur** from 🇷🇼
 I'm the founder of **Anilo**, a visionary tech startup focused on building scalable, community-first IT solutions that solve real-world problems and support sustainable development across Africa.
 
 > ### 💫 My Philosophy
-> "I don’t just write code — I build accessible systems that bridge socio-economic gaps and directly impact real people's lives."
+> *"I don’t just write code — I build accessible systems that bridge socio-economic gaps and directly impact real people's lives."*
 
-**Through smart tech, human-centered UI/UX design, and strategic software architecture, I’m committed to supporting digital transformation.**
+Through smart technology, human-centered UI/UX design, and strategic software architecture, I’m committed to supporting digital transformation across emerging markets.
 
 ---
 
-## 🚀 Current Project
+## 🚀 Current Spotlight Project
 
 ### 🔗 [Quick Job Connect](https://angeluscom.vercel.app/)
-A mobile-first web platform designed to connect unskilled and semi-skilled workers with local employers, bridging Rwanda’s employment gap through intuitive digital tools.
+> **Bridging Rwanda’s Employment Gap Through Accessible Digital Tools**
 
-*   **⚡ Key Features:** Localized search, SMS-based notifications, bilingual user interfaces, and rapid database matching.
-*   **🛠️ Architecture & Stack:** 
-    *   **Frontend:** React, Tailwind CSS (Mobile-First UI)
-    *   **Backend:** Node.js, Express, RESTful APIs
-    *   **Database & Cloud:** MongoDB, Firebase Authentication
-*   **🤝 Open for Collaboration:** Want to help scale this community-driven platform? Let's build together!
+An enterprise-grade, mobile-first platform engineered to connect unskilled and semi-skilled workers with local employers, creating zero-barrier economic opportunities.
+
+* 🎯 **Mission:** Empowering local workforce ecosystems with localized, low-friction digital tools.
+* ⚡ **Core Capabilities:**
+  * 📱 **Mobile-First Experience:** Optimized interface tailored for seamless performance across all mobile browsers.
+  * 💬 **SMS Notification Engine:** Instant job alerts ensuring accessibility for users without continuous internet access.
+  * 🌍 **Bilingual Support:** Full multi-language accessibility adapted to local communities.
+  * 🔍 **Rapid Matching Algorithm:** Low-latency database queries connecting workers to opportunities in real time.
+* 🛠️ **Architecture & Stack:** `React` • `Node.js` • `Express` • `MongoDB` • `Firebase Auth` • `Tailwind CSS`
+
+<p align="left">
+  <a href="https://angeluscom.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="mailto:angelusjean1@gmail.com?subject=Quick%20Job%20Connect%20Collaboration">
+    <img src="https://img.shields.io/badge/Collaborate-2D6DEC?style=for-the-badge&logo=github&logoColor=white" alt="Collaborate" />
+  </a>
+</p>
 
 ---
 
 ## 🧰 Tech Stack
 
-I leverage a modern, multi-disciplinary toolset to design, develop, and deploy production-ready applications from scratch:
+I leverage a modern, multi-disciplinary toolset to design, develop, and deploy production-ready applications:
 
 <table>
   <tr>
@@ -69,6 +88,7 @@ I leverage a modern, multi-disciplinary toolset to design, develop, and deploy p
     <td valign="top" width="50%">
       <strong>🎨 UI/UX & Prototyping</strong><br/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Thunkable-FF6F61?style=flat&logo=thunkable&logoColor=white" />
       <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
     </td>
     <td valign="top" width="50%">
@@ -83,18 +103,36 @@ I leverage a modern, multi-disciplinary toolset to design, develop, and deploy p
 
 ---
 
-## 📈 GitHub Activity
+## 💡 Leadership & Soft Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Startup_Leadership-05122A?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strategic_Problem_Solving-05122A?style=flat-square&logo=mindmeister&logoColor=white" />
+  <img src="https://img.shields.io/badge/Product_Architecting-05122A?style=flat-square&logo=diagramsdotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cross--Functional_Teamwork-05122A?style=flat-square&logo=users&logoColor=white" />
+  <img src="https://img.shields.io/badge/Human--Centered_Design-05122A?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angelus-1&show_icons=true&theme=radical" width="49%" alt="Angelus's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelus-1&layout=compact&theme=radical" width="49%" alt="Angelus's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Angelus-1&show_icons=true&theme=radical&hide_border=true" width="49%" alt="Angelus's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelus-1&layout=compact&theme=radical&hide_border=true" width="49%" alt="Angelus's Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Angelus-1&theme=radical&hide_border=true" alt="Angelus's GitHub Streak" />
+  </a>
 </p>
 
 ---
 
 ## 📫 Let’s Connect
 
-Whether you want to discuss tech startups in Africa, open-source opportunities, or a potential software engineering role, my inbox is always open!
+Whether you want to discuss tech startups in Africa, open-source opportunities, or strategic software engineering collaborations, my inbox is always open!
 
 <p align="left">
   <a href="https://angeluscom.vercel.app/" target="_blank">
@@ -113,9 +151,9 @@ Whether you want to discuss tech startups in Africa, open-source opportunities, 
 
 ---
 
-## 💬 Fun Fact
+## 💬 Quote
 
-> 💡 *Building the future, one elegant line of code at a time.*
+> 💡 *"Building the future, one elegant line of code at a time."*
 
 ---
 
