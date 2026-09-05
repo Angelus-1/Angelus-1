@@ -34,31 +34,7 @@ Through smart technology, human-centered UI/UX design, and strategic software ar
 
 ---
 
-## 🚀 Current Spotlight Project
 
-### 🔗 [Quick Job Connect](https://angeluscom.vercel.app/)
-> **Bridging Rwanda’s Employment Gap Through Accessible Digital Tools**
-
-An enterprise-grade, mobile-first platform engineered to connect unskilled and semi-skilled workers with local employers, creating zero-barrier economic opportunities.
-
-* 🎯 **Mission:** Empowering local workforce ecosystems with localized, low-friction digital tools.
-* ⚡ **Core Capabilities:**
-  * 📱 **Mobile-First Experience:** Optimized interface tailored for seamless performance across all mobile browsers.
-  * 💬 **SMS Notification Engine:** Instant job alerts ensuring accessibility for users without continuous internet access.
-  * 🌍 **Bilingual Support:** Full multi-language accessibility adapted to local communities.
-  * 🔍 **Rapid Matching Algorithm:** Low-latency database queries connecting workers to opportunities in real time.
-* 🛠️ **Architecture & Stack:** `React` • `Node.js` • `Express` • `MongoDB` • `Firebase Auth` • `Tailwind CSS`
-
-<p align="left">
-  <a href="https://angeluscom.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="mailto:angelusjean1@gmail.com?subject=Quick%20Job%20Connect%20Collaboration">
-    <img src="https://img.shields.io/badge/Collaborate-2D6DEC?style=for-the-badge&logo=github&logoColor=white" alt="Collaborate" />
-  </a>
-</p>
-
----
 
 ## 🧰 Tech Stack
 
